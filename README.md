@@ -9,6 +9,3 @@ under high uncertainty and pressure.
 
 Who this is for/not for
 
-code
-
-docs/.keep
