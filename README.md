@@ -9,3 +9,6 @@ under high uncertainty and pressure.
 
 Who this is for/not for
 
+[Silence Trigger Sheet (PDF)](docs/silence_trigger_sheet_healthcare.pdf)
+
+This is a living draft.Use,adapt,or ignore.
